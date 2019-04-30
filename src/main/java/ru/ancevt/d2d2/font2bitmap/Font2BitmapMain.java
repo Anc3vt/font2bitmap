@@ -149,7 +149,7 @@ public class Font2BitmapMain {
 		}
 
 		final String string = 
-				"\n !\"#$%&'()*+,-./\\0123456789:;<=>@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmno" + 
+				"\n |!\"#$%&'()*+,-./\\0123456789:;<=>@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmno" + 
 				"pqrstuvwxyz[]_{}АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮ" + 
 				"Яабвгдеёжзийклмнопрстуфхцчшщъыьэюя?^~";
 
